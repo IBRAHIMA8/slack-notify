@@ -1,6 +1,6 @@
 require "slack-notify"
 require 'clockwork'
-sample = SlackNotify::Client.new(webhook_url: 'https://hooks.slack.com/services/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')
+sample = SlackNotify::Client.new(webhook_url: 'https://hooks.slack.com/services/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')
 
 include Clockwork
 
